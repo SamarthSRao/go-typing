@@ -14,7 +14,7 @@ import (
 )
 
 var wordLists = map[string][]string{
-	"easy": {"the", "and", "for", "are", "but", "not", "you", "all", "can", "her",
+	"easy": {"the", "and", "for", "are", "but", "not", "you", "all", "can", "her","you",
 		"was", "one", "our", "out", "day", "get", "has", "him", "his", "how",
 		"man", "new", "now", "old", "see", "two", "way", "who", "boy", "did",
 		"use", "may", "say", "she", "too", "any", "had", "let", "put", "end"},
